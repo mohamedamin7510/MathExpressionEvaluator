@@ -1,0 +1,14 @@
+C:\Users\LAPTOP WORLD\source\repos\MathExpressionEvaluator\bin\Debug\net8.0\MathExpressionEvaluator.exe
+C:\Users\LAPTOP WORLD\source\repos\MathExpressionEvaluator\bin\Debug\net8.0\MathExpressionEvaluator.deps.json
+C:\Users\LAPTOP WORLD\source\repos\MathExpressionEvaluator\bin\Debug\net8.0\MathExpressionEvaluator.runtimeconfig.json
+C:\Users\LAPTOP WORLD\source\repos\MathExpressionEvaluator\bin\Debug\net8.0\MathExpressionEvaluator.dll
+C:\Users\LAPTOP WORLD\source\repos\MathExpressionEvaluator\bin\Debug\net8.0\MathExpressionEvaluator.pdb
+C:\Users\LAPTOP WORLD\source\repos\MathExpressionEvaluator\obj\Debug\net8.0\MathExpressionEvaluator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\source\repos\MathExpressionEvaluator\obj\Debug\net8.0\MathExpressionEvaluator.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\source\repos\MathExpressionEvaluator\obj\Debug\net8.0\MathExpressionEvaluator.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\source\repos\MathExpressionEvaluator\obj\Debug\net8.0\MathExpressionEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\source\repos\MathExpressionEvaluator\obj\Debug\net8.0\MathExpressionEvaluator.dll
+C:\Users\LAPTOP WORLD\source\repos\MathExpressionEvaluator\obj\Debug\net8.0\refint\MathExpressionEvaluator.dll
+C:\Users\LAPTOP WORLD\source\repos\MathExpressionEvaluator\obj\Debug\net8.0\MathExpressionEvaluator.pdb
+C:\Users\LAPTOP WORLD\source\repos\MathExpressionEvaluator\obj\Debug\net8.0\MathExpressionEvaluator.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\source\repos\MathExpressionEvaluator\obj\Debug\net8.0\ref\MathExpressionEvaluator.dll
